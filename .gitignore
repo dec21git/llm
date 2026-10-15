@@ -1,0 +1,5 @@
+# Environment variables (contains secret keys, passwords, etc.)
+.env
+.venv/
+venv/
+env/
